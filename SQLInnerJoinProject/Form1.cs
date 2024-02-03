@@ -38,9 +38,6 @@ namespace SQLInnerJoinProject
 		{
 			listele();
 			
-
-
-
 		}
 	}
 }
